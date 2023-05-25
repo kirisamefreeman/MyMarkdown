@@ -77,3 +77,5 @@ FLUSH PRIVILEGES;
 ```
 /opt/mysoftware/mysql/bin/mysql -u root -p
 ```
+
+## good
