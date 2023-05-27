@@ -17,7 +17,13 @@ echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.
 wget https://desktop.docker.com/linux/main/amd64/docker-desktop-4.19.0-amd64.deb?utm_source=docker&utm_medium=webreferral&utm_campaign=docs-driven-download-linux-amd64&_gl=1*1ttjjy2*_ga*MjUyOTg3OTMyLjE2ODUxOTUxMzE.*_ga_XJWPQMJYHQ*MTY4NTE5NTEzMS4xLjEuMTY4NTE5NTE0Ny40NC4wLjA.
 ```
 
-## 4.安装Docker Desktop
+## 4.更新软件包
+```
+sudo apt update
+```
+
+
+## 5.安装Docker Desktop
 ```
 sudo apt install ./docker-desktop-4.19.0-amd64.deb
 ```
