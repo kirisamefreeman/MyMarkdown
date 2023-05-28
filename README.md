@@ -1,2 +1,0 @@
-# MyMarkdown
-My markdown notes!
